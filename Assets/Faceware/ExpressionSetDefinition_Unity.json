@@ -1,0 +1,320 @@
+{
+	"Meta":
+		{
+			"Application":"Live",
+			"version":"1.0"
+		},
+	"Controls":
+		[],
+	"Expressions":
+		[
+			{
+				"Name":"Neutral",
+				"Desc":"baseline.",
+				"Attr":"neutral",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Eye Direction - LEFT",
+				"Desc":"Rotate the eyes so that the character is looking to their left.",
+				"Attr":"eyes_lookLeft",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Eye Direction - RIGHT",
+				"Desc":"Rotate the eyes so that the character is looking to their right.",
+				"Attr":"eyes_lookRight",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Eye Direction - UP",
+				"Desc":"Rotate the eyes so that the character is looking up.",
+				"Attr":"eyes_lookUp",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Eye Direction - DOWN",
+				"Desc":"Rotate the eyes so that the character is looking to down.",
+				"Attr":"eyes_lookDown",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Eye Blink - LEFT",
+				"Desc":"Blink the character\u0027s left eye.",
+				"Attr":"eyes_leftEye_blink",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Eye Blink - RIGHT",
+				"Desc":"Blink the character\u0027s right eye.",
+				"Attr":"eyes_rightEye_blink",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Eye Wide - LEFT",
+				"Desc":"Open the character\u0027s left eye wide.",
+				"Attr":"left_eye_wide",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Eye Wide - RIGHT",
+				"Desc":"Open the character\u0027s right eye wide.",
+				"Attr":"right_eye_wide",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Eyebrow Up - LEFT",
+				"Desc":"Pose the character\u0027s left eyebrow in the \u0027up\u0027 position.",
+				"Attr":"brows_leftBrow_up",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Eyebrow Up - RIGHT",
+				"Desc":"Pose the character\u0027s right eyebrow in the \u0027up\u0027 position.",
+				"Attr":"brows_rightBrow_up",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Eyebrow Down - LEFT",
+				"Desc":"Pose the character\u0027s left eyebrow in the \u0027down\u0027 position.",
+				"Attr":"brows_leftBrow_down",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Eyebrow Down - RIGHT",
+				"Desc":"Pose the character\u0027s right eyebrow in the \u0027down\u0027 position.",
+				"Attr":"brows_rightBrow_down",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Eyebrow Up - CENTER",
+				"Desc":"Pose the character\u0027s mid eyebrows in the \u0027up\u0027 position.",
+				"Attr":"brows_midBrows_up",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Eyebrow Down - CENTER",
+				"Desc":"Pose the character\u0027s mid eyebrows in the \u0027up\u0027 position.",
+				"Attr":"brows_midBrows_down",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Jaw - OPEN",
+				"Desc":"Open the character\u0027s mouth/jaw as wide as it goes.",
+				"Attr":"jaw_open",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Jaw - LEFT",
+				"Desc":"Rotate the character\u0027s jaw to the left side.",
+				"Attr":"jaw_right",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Jaw - RIGHT",
+				"Desc":"Rotate the character\u0027s jaw to the right side.",
+				"Attr":"jaw_left",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Upper Lip Up - LEFT",
+				"Desc":"Pose the upper lip\u0027s left side in the \u0027up\u0027 position.",
+				"Attr":"mouth_upperLip_left_up",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Upper Lip Up - RIGHT",
+				"Desc":"Pose the upper lip\u0027s right side in the \u0027up\u0027 position.",
+				"Attr":"mouth_upperLip_right_up",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Lower Lip Down - LEFT",
+				"Desc":"Pose the lower lip\u0027s left side in the \u0027down\u0027 position.",
+				"Attr":"mouth_lowerLip_left_down",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Lower Lip Down - RIGHT",
+				"Desc":"Pose the lower lip\u0027s right side in the \u0027down\u0027 position.",
+				"Attr":"mouth_lowerLip_right_down",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Mouth Stretch - LEFT",
+				"Desc":"Pose the mouth so it\u0027s stretched on the \u0027left\u0027 side.",
+				"Attr":"mouth_left_stretch",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Mouth Stretch - RIGHT",
+				"Desc":"Pose the mouth so it\u0027s stretched on the \u0027right\u0027 side.",
+				"Attr":"mouth_right_stretch",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Mouth Narrow - LEFT",
+				"Desc":"Pose the mouth so it\u0027s narrowed on the \u0027left\u0027 side.",
+				"Attr":"mouth_left_narrow",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Mouth Narrow - RIGHT",
+				"Desc":"Pose the mouth so it\u0027s narrowed on the \u0027right\u0027 side.",
+				"Attr":"mouth_right_narrow",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Smile - LEFT",
+				"Desc":"Pose the mouth so it\u0027s in a smile on the \u0027left\u0027 side.",
+				"Attr":"mouth_leftMouth_smile",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Smile - RIGHT",
+				"Desc":"Pose the mouth so it\u0027s in a smile on the \u0027right\u0027 side.",
+				"Attr":"mouth_rightMouth_smile",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Frown - LEFT",
+				"Desc":"Pose the mouth so it\u0027s in a frown on the \u0027left\u0027 side.",
+				"Attr":"mouth_leftMouth_frown",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Frown - RIGHT",
+				"Desc":"Pose the mouth so it\u0027s in a frown on the \u0027right\u0027 side.",
+				"Attr":"mouth_rightMouth_frown",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Mouth Scrunch - LEFT",
+				"Desc":"Pose the mouth so it\u0027s scrunched on the \u0027left\u0027 side.",
+				"Attr":"mouth_left",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Mouth Scrunch - RIGHT",
+				"Desc":"Pose the mouth so it\u0027s scrunched on the \u0027right\u0027 side.",
+				"Attr":"mouth_right",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Phoneme - OO",
+				"Desc":"Pose the mouth in an \u0027OO\u0027 phoneme shape.",
+				"Attr":"mouth_phoneme_oo",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Phoneme - CH",
+				"Desc":"Pose the mouth in an \u0027CH\u0027 phoneme shape.",
+				"Attr":"mouth_phoneme_ch",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Phoneme - MBP",
+				"Desc":"Pose the mouth in an \u0027MBP\u0027 phoneme shape (pressed).",
+				"Attr":"mouth_phoneme_mbp",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Phoneme - FV",
+				"Desc":"Pose the mouth in an \u0027FV\u0027 phoneme shape.",
+				"Attr":"normalFV",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Mouth Up",
+				"Desc":"Move the character\u0027s entire mouth \u0027up\u0027.",
+				"Attr":"mouth_up",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Mouth Down",
+				"Desc":"Move the character\u0027s entire mouth \u0027down\u0027.",
+				"Attr":"mouth_down",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Head Down",
+				"Desc":"Rotate the character\u0027s head \u0027down\u0027.",
+				"Attr":"head_Down",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Head Up",
+				"Desc":"Rotate the character\u0027s head \u0027up\u0027.",
+				"Attr":"head_Up",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Head Left",
+				"Desc":"Turn the character\u0027s head \u0027left\u0027.",
+				"Attr":"head_Left",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Head Right",
+				"Desc":"Turn the character\u0027s head \u0027right\u0027.",
+				"Attr":"head_Right",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Head Tilt Right",
+				"Desc":"Tilt the character\u0027s head \u0027right\u0027.",
+				"Attr":"head_RightTilt",
+				"InUse":false,
+				"Values":[]
+			},
+			{
+				"Name":"Head Tilt Left",
+				"Desc":"Tilt the character\u0027s head \u0027left\u0027.",
+				"Attr":"head_LeftTilt",
+				"InUse":false,
+				"Values":[]
+			}
+		]
+}
